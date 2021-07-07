@@ -6,7 +6,7 @@ Una vez descargadas las carpetas se necesita hacer 3 procedimientos por separado
 Por ser una prueba y una base de datos ficticia, las credenciales de la base de datos estan ya escritas en la aplicacion con Django, por lo que no es necesario agregarlas
 
 ## React
-1- ingresar a "reto-FE/app-financiera" y correr el comando "npm install" para instalar las librerias necesarias para correr la aplicacion. O simplemente ejecutar "npm install axios" ya que es la unica libreria que esta instalada para esta prueba
+1- ingresar a "reto-FE" y correr el comando "npm install" para instalar las librerias necesarias para correr la aplicacion. O simplemente ejecutar "npm install axios" ya que es la unica libreria que esta instalada para esta prueba
 
 
 ## Django 
