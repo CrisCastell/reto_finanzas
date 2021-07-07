@@ -1,0 +1,3 @@
+password: Chach@.123
+nombre base de datos: RETO_FINANZAS
+user : postgres
